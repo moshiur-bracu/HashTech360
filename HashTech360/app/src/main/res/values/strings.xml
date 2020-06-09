@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">HashTech360</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_web_development">Web Development</string>
+    <string name="menu_digital_services">Digital Services</string>
+    <string name="menu_mobile_apps">Mobile Apps</string>
+    <string name="menu_contact_us">Contact Us</string>
+    <string name="menu_why_us">Why Us</string>
+    <string name="menu_cloud_apps">Cloud Apps</string>
+    <string name="our_services">Our Services</string>
+
+    <string name="action_sign_in_short">Register</string>
+    <string name="email">Email</string>
+    <string name="minimum_password">Password too short, Enter minimum 6 characters!</string>
+    <string name="auth_failed">Authentication failed! Recheck your Email and Password!</string>
+    <string name="change_email">Change Email</string>
+    <string name="change_password">Change Password</string>
+    <string name="send_password_reset_email">Send Password reset Email</string>
+    <string name="remove_user">Remove user</string>
+    <string name="new_pass">New Password</string>
+    <string name="title_activity_profile">Firebase</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Full Name</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_link_to_register">Not a member? Get registered in HashTech360 now!</string>
+    <string name="btn_link_to_login">Already registered? Login!</string>
+    <string name="title_activity_reset_password">ResetPasswordActivity</string>
+    <string name="btn_forgot_password">Forgot your password?</string>
+    <string name="btn_reset_password">Reset Password</string>
+    <string name="btn_back"><![CDATA[<< Back]]></string>
+    <string name="hint_new_email">New Email</string>
+    <string name="btn_change">Change</string>
+    <string name="btn_send">Send</string>
+    <string name="btn_remove">Remove</string>
+    <string name="btn_sign_out">Sign Out</string>
+    <string name="lbl_forgot_password">Forgot password?</string>
+    <string name="forgot_password_msg">We just need your Email ID to sent you password reset instructions.</string>
+    <string name="prompt_password">Prompt Password</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="why_us">Now is concerning amendment and disruption. Find your folks. Discover what they have, want, and love. Use information to drive a deep, continued language and guarantee every factor you are doing for your audience is best than the last. once it involves digital and IT, we’re unapologetic optimists. We’ve solely damaged the surface of what’s doable. We serve for the fastest growth of your business through the chances of Digital Marketing and IT – new experiences that merge imagination and technology in fascinating new ways that. We invite you to trust us on a journey from currently to next.</string>
+    <string name="why_us_header">Why Us</string>
+    <string name="contact_us_header">Contact Us</string>
+    <string name="large_text">abc</string>
+    <string name="btn_book">Book an Appointment</string>
+    <string name="btn_close">X</string>
+
+    <string-array name="services_spinner">
+        <item>Web Development</item>
+        <item>Digital Services</item>
+        <item>Mobile Apps</item>
+        <item>Cloud Based Apps</item>
+    </string-array>
+
+</resources>

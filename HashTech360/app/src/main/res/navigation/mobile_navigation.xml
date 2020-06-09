@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.hashtech360.hashtech360.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_web_development"
+        android:name="com.hashtech360.hashtech360.ui.web_development.WebDevelopmentFragment"
+        android:label="@string/menu_web_development"
+        tools:layout="@layout/fragment_web_development" />
+
+    <fragment
+        android:id="@+id/nav_digital_services"
+        android:name="com.hashtech360.hashtech360.ui.digital_services.DigitalServicesFragment"
+        android:label="@string/menu_digital_services"
+        tools:layout="@layout/fragment_digital_services" />
+
+    <fragment
+        android:id="@+id/nav_mobile_apps"
+        android:name="com.hashtech360.hashtech360.ui.mobile_apps.MobileAppsFragment"
+        android:label="@string/menu_mobile_apps"
+        tools:layout="@layout/fragment_mobile_apps" />
+
+    <fragment
+        android:id="@+id/nav_contact_us"
+        android:name="com.hashtech360.hashtech360.ui.contact_us.ContactUsFragment"
+        android:label="@string/menu_contact_us"
+        tools:layout="@layout/fragment_contact_us" />
+
+    <fragment
+        android:id="@+id/nav_why_us"
+        android:name="com.hashtech360.hashtech360.ui.why_us.WhyUsFragment"
+        android:label="@string/menu_why_us"
+        tools:layout="@layout/fragment_why_us" />
+
+    <fragment
+        android:id="@+id/nav_cloud_apps"
+        android:name="com.hashtech360.hashtech360.ui.cloud_apps.CloudAppsFragment"
+        android:label="@string/menu_cloud_apps"
+        tools:layout="@layout/fragment_cloud_apps" />
+</navigation>
